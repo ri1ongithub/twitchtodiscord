@@ -1,0 +1,7 @@
+    {
+  "discord_token": "discordtoken",
+  "twitch_bot_username": "username",
+  "twitch_bot_token": "twitchtoken",
+  "twitch_channel": "twitchchannel",
+  "discord_channel": "discordchannelid"
+}

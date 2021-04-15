@@ -1,0 +1,19 @@
+{
+  "name": "twitchtodiscord",
+  "version": "1.0.0",
+  "description": "twitch interchat",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "tmi.js": "^1.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "interchat"
+  ],
+  "author": "rien",
+  "license": "ISC"
+}
