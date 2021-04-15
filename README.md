@@ -1,2 +1,3 @@
-# twitchtodiscord
-twitch interchat
+# Twitch To Discord
+Twitch Interchat
+[website](https://rien.tk)
